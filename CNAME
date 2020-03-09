@@ -1,1 +1,2 @@
 $ echo "totalenergiasolar.eco.br" > CNAME
+$ echo "www.totalenergiasolar.eco.br" > CNAME
